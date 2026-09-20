@@ -9,7 +9,7 @@
    cards.js 在浏览器加载完后用 anime.js 给它们做 stagger 入场。 */
 .card {
   opacity: 0;
-  transform: translateY(24px);
+  transform: scale(0.6);
 }
 
 .section-kicker {
